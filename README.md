@@ -6,6 +6,7 @@ Slot: B21+E14
 Software Chosen: Git
 🔹 1. Introduction
 Open source software forms the backbone of modern computing. From operating systems to development tools, most technologies rely on collaboratively built and freely shared code. This project explores Git, a distributed version control system, not only as a tool but as a representation of open-source philosophy.
+
 🟢 Part A — Origin and Philosophy
 A1. Problem Git Solved
 Before Git, developers used centralized version control systems like SVN. These systems had major issues:
