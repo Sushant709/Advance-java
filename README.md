@@ -1,10 +1,15 @@
 📄 PROJECT REPORT (Ready to Use)
 
 Student Details
+
 Name: Sushant Kumar
+
 Registration No: 24BCE10250
+
 Slot: B21+E14
+
 Software Chosen: Git
+
 🔹 1. Introduction
 Open source software forms the backbone of modern computing. From operating systems to development tools, most technologies rely on collaboratively built and freely shared code. This project explores Git, a distributed version control system, not only as a tool but as a representation of open-source philosophy.
 
