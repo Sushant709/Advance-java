@@ -1,4 +1,4 @@
-📄 PROJECT REPORT (Ready to Use)
+📄 PROJECT REPORT
 
 Student Details
 
@@ -13,7 +13,7 @@ Software Chosen: Git
 🔹 1. Introduction
 Open source software forms the backbone of modern computing. From operating systems to development tools, most technologies rely on collaboratively built and freely shared code. This project explores Git, a distributed version control system, not only as a tool but as a representation of open-source philosophy.
 
-🟢 Part A — Origin and Philosophy
+🟢 Part A — Origin and Philosoph
 A1. Problem Git Solved
 Before Git, developers used centralized version control systems like SVN. These systems had major issues:
 Slow performance
@@ -66,7 +66,7 @@ Means:
 Innovation builds on existing work
 👉 Open source accelerates innovation
 
-🟢 Part B — Linux Footprint
+🟢 Part B — Linux Fotprint
 📦 Installation
 sudo apt install git
 📁 Key Directories
